@@ -1,0 +1,19 @@
+.sign-in-container {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    margin: 0 50px;
+
+    h2 {
+        margin: 10px 0px;
+    }
+}
+
+.authentication-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10%;
+    justify-content: space-between;
+
+}
+
